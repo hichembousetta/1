@@ -1,7 +1,7 @@
 /****************** Typing Animation ****************/
 
 var typed = new Typed('.typing', {
-    strings: ['', 'Web Developer', 'Web Designer', 'Sponsored Ads', 'YouTuber'],
+    strings: ['', 'Web Developer', 'Web Designer', 'Sponsored Ads'],
     typeSpeed: 100,
     BackSpeed: 60,
     loop: true,
